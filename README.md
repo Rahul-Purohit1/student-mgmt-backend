@@ -1,4 +1,4 @@
-# Backend Project
+# Student Management Backend
 
 This is a **Node.js** backend application that connects to a **PostgreSQL** database. The project includes an API documented with **Swagger**.
 
